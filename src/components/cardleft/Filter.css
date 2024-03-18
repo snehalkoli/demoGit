@@ -1,0 +1,16 @@
+.filtersContainer {
+    width: 250px;
+    /* height: calc(100vh - var(--nav-height) + 1rem); */
+    height: auto;
+    overflow-y: auto;
+    background: white;
+    padding: 1rem 1.5rem;
+    /* border-radius: var(--borderRadius);
+    box-shadow: var(--shadow-2); */
+    position: fixed;
+    top: 6rem;
+    left: -31rem;
+    /* transition: var(--transition); */
+    z-index: 100;
+    padding-bottom: 3rem;
+  }
